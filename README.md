@@ -1,7 +1,5 @@
 # Integrating Your Chatbot into a Web Interface
 
-![Chatbot Web Interface](https://raw.githubusercontent.com/your-username/your-repository/main/chatbot-web-interface.jpg)
-
 Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
 
 ## Overview
